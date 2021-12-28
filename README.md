@@ -2,7 +2,7 @@
 
 Laravel Block for backend and frontend - need tailwindcss support
 
-**_*dependence: gmj/laravel_hopping*_**<br/>
+**_*dependence: gmj/laravel_shopping*_**<br/>
 **composer require gmj/laravel_block2_shopping_thumbnail**
 
 in terminal run:<br/>
