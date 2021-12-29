@@ -6,8 +6,7 @@ Laravel Block for backend and frontend - need tailwindcss support
 **composer require gmj/laravel_block2_shopping_thumbnail**
 
 in terminal run:<br/>
-php artisan vendor:<br>
-publish --provider="GMJ\LaravelBlock2ShoppingThumbnail\LaravelBlock2ShoppingThumbnailServiceProvider" --force
+php artisan vendor:publish --provider="GMJ\LaravelBlock2ShoppingThumbnail\LaravelBlock2ShoppingThumbnailServiceProvider" --force
 
 php artisan migrate
 
